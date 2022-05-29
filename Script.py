@@ -4,22 +4,23 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 ʜᴇʟᴩ ᴄᴏᴍᴍᴀɴᴅꜱ """
     ABOUT_TXT = """✯ ᴍy ɴᴀᴍᴇ : {}
-⌨︎ ᴄʀᴇᴀᴛᴏʀ ➪ <a href=https://t.me/basildmx>𝐁𝐚𝐬𝐢𝐥 𝐃𝐌𝐗</a>
-❍ ᴜᴩᴅᴀᴛᴇꜱ ➪ <a href=https://t.me/dmx_bot>𝐃𝐌𝐗 𝐁𝐨𝐭𝐬</a>
+⌨︎ ᴄʀᴇᴀᴛᴏʀ ➪ <a href=https://t.me/bibin_indian_rock>ʙɪʙɪɴ ᴄʟ</a>
+❍ ᴜᴩᴅᴀᴛᴇꜱ ➪ <a href=https://t.me/printvh>ᴍᴏᴠɪᴇ ᴜᴩᴅᴀᴛᴇꜱ</a>
 ❍ ʟɪʙʀᴀʀy ➪ 𝑷𝒚𝒓𝒐𝒈𝒓𝒂𝒎
 ❍ ʟᴀɴɢ ➪ 𝑷𝒚𝒕𝒉𝒐𝒏 3
 ❍ ᴠᴇʀꜱɪᴏɴ ➪ 9
 ❍ ꜱᴛᴀᴛᴜꜱ ➪ 𝑷𝒖𝒃𝒍𝒊𝒄
 ❍ ᴅᴀᴛᴀ ʙᴀꜱᴇ ➪ 𝑴𝒐𝒏𝒈𝒐 𝑫𝑩
 ❍ ꜱᴇʀᴠᴇʀ ➪ 𝑯𝒆𝒓𝒐𝒌𝒖 𝒄𝒍𝒐𝒖𝒅
-❍ ʙᴜɪʟᴅ ꜱᴛᴀᴛꜱ  ➪ 𝚅9.7.73 [𝑩𝑬𝑻𝑨 9.7]
-❍ ʟᴀꜱᴛ ᴜᴩᴅᴀᴛᴇ  ➪ 28 𝑴𝒂𝒚"""
+❍ ʙᴜɪʟᴅ ꜱᴛᴀᴛꜱ  ➪ 𝚅9.7.73 [ᴍᴀᴊᴏʀ 9.7]
+❍ ʟᴀꜱᴛ ᴜᴩᴅᴀᴛᴇ  ➪ 29 𝑴𝒂𝒚"""
     SOURCE_TXT = """<b>ɴᴏᴛᴇ</b>
 - ᴛᴏɴy ꜱᴛᴀʀᴋ ᴠ9 ɪꜱ ɴᴏᴛ ᴀ ᴏᴩᴇɴ ꜱᴏᴜᴄʀᴇ ʙᴏᴛ (ʀᴇᴩᴏ ɪꜱ ᴩʀɪᴠᴀᴛᴇ) 
 - ᴜᴩᴅᴀᴛᴇꜱ :<a href=https://t.me/dmx_bots>ᴅᴍx ʙᴏᴛꜱ</a>
 
 <b>DEV:</b>
-- 𝙳𝚎𝚟 <a href=https://t.me/basildmx>𝐁𝐚𝐬𝐢𝐥 𝐃𝐌𝐗</a> """
+- 𝙳𝚎𝚟 1 <a href=https://t.me/basildmx>ʙᴀꜱɪʟ ᴅᴍx</a>
+- 𝙳𝚎𝚟 2 <a href=https://t.me/bibin_indian_rock>ʙɪʙɪɴ ᴄʟ</a> """
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
 <b>𝙱𝚈 𝚄𝚂𝙸𝙽𝙶 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚈𝙾𝚄 𝙲𝙰𝙽 𝚂𝚃𝙾𝚁𝙴 𝙵𝙸𝙻𝙴𝚂 𝙸𝙽 𝙼𝚈 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 𝙰𝙽𝙳 𝙸 𝚆𝙸𝙻𝙻 𝙶𝙸𝚅𝙴 𝚈𝙾𝚄 𝙰 𝙿𝙴𝚁𝙼𝙰𝙽𝙴𝙽𝚃 𝙻𝙸𝙽𝙺  𝚃𝙾 𝙰𝙲𝙲𝙴𝚂𝚂 𝚃𝙷𝙴 𝚂𝙰𝚅𝙴𝙳 𝙵𝙸𝙻𝙴𝚂.𝙸𝙵 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝙰𝙳𝙳 𝙵𝙸𝙻𝙴𝚂 𝙵𝚁𝙾𝙼 𝙰 𝙿𝚄𝙱𝙻𝙸𝙲 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝙵𝙸𝙻𝚆 𝙻𝙸𝙽𝙺 𝙾𝙽𝙻𝚈  𝙾𝚁 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝙰𝙳𝙳 𝙵𝙸𝙻𝙴𝚂 𝙵𝚁𝙾𝙼 𝙰  𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚈𝙾𝚄 𝙼𝚄𝚂𝚃 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽 𝙾𝙽 𝚃𝙷𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚃𝙾 𝙰𝙲𝙲𝙴𝚂𝚂 𝙵𝙸𝙻𝙴𝚂...//</b>
@@ -32,9 +33,9 @@ class script(object):
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch https://t.me/dmx_bots or /batch hlo</code>
+<code>/batch https://t.me/printvh or /batch hlo</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/dmx_bots><b>ᴅᴍx ʙᴏᴛꜱ</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/printvh><b>ᴍᴏᴠɪᴇꜱ ᴜᴩᴅᴀᴛᴇ</b></a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 •/whois :-give a user full details"""
@@ -71,7 +72,7 @@ Note:- Give a user details
 
 𝚆𝙾𝚁𝙺𝚂 𝙾𝙽𝙻𝚈 𝙾𝙽 𝙶𝚁𝙾𝚄𝙿
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/basildmx>ᴅᴍx ʙᴏᴛꜱ</a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/bibin_indian_rock>ʙɪʙɪɴ ᴄʟ</a>"""
     PIN_TXT ="""<b>PIN MODULE</b>
 <b>𝙿𝙸𝙽 𝙰 𝙼𝙴𝚂𝚂𝙰𝙶𝙴../</b>
 
@@ -177,7 +178,7 @@ Delete A Lot Of Messages From Groups!
 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 :-
 ›› /set_template - 𝚂𝙴𝚃 𝙲𝚄𝚂𝚃𝙾𝙼 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙵𝙾𝚁 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁. 
 ›› /get_template - 𝙶𝙴𝚃 𝙲𝚄𝚁𝚁𝙴𝙽𝚃 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙾𝙵 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁.
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/basildmx>ʙᴀꜱɪʟ ᴅᴍx</a>**"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/bibin_indian_rock>ʙɪʙɪɴ ᴄʟ</a>**"""
     CONNECTION_TXT = """Help: <b>Connections</b>
 
 - Used to connect bot to PM for managing filters 
@@ -268,7 +269,7 @@ By @{}
 ➪ /short: 𝗎𝗌𝖾 𝗍𝗁𝗂𝗌 𝖼𝗈𝗆𝗆𝖺𝗇𝖽 𝗐𝗂𝗍𝗁 𝗒𝗈𝗎𝗋 𝗅𝗂𝗇𝗄 𝗍𝗈 𝗀𝖾𝗍 𝗌𝗁𝗈𝗋𝗍𝖾𝖽 𝗅𝗂𝗇𝗄𝗌
 
 ➛𝖤𝗑𝖺𝗆𝗉𝗅𝖾:
-<code>/short https://t.me/dmx_bots</code>"""
+<code>/short https://t.me/printvh</code>"""
 
     VIDEO_TXT ="""𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝚅𝙸𝙳𝙴𝙾 𝙵𝚁𝙾𝙼 𝚈𝙾𝚄𝚃𝚄𝙱𝙴.
 
@@ -300,7 +301,7 @@ By @{}
 
 ➪ 𝖩𝗎𝗌𝗍 𝗌𝖾𝗇𝖽 𝗆𝖾 𝖺 𝗂𝗆𝖺𝗀𝖾 𝗍𝗈 𝖾𝖽𝗂𝗍 ✨
 
-ᴍᴀᴅᴇ ʙy <a href=https://t.me/Basildmx>ᴅᴍx ʙᴏᴛꜱ</a>"""
+ᴍᴀᴅᴇ ʙy <a href=https://t.me/bibin_indian_rock>ʙɪʙɪɴ ᴄʟ</a>"""
 
     STICKER_TXT = """𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚃𝙾 𝙵𝙸𝙽𝙳 𝙰𝙽𝚈 𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂 𝙸𝙳.
 • 𝐔𝐒𝐀𝐆𝐄
