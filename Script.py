@@ -16,7 +16,7 @@ class script(object):
 ❍ ʟᴀꜱᴛ ᴜᴩᴅᴀᴛᴇ  ➪ 29 𝑴𝒂𝒚"""
     SOURCE_TXT = """<b>ɴᴏᴛᴇ</b>
 - ᴛᴏɴy ꜱᴛᴀʀᴋ ᴠ9 ɪꜱ ɴᴏᴛ ᴀ ᴏᴩᴇɴ ꜱᴏᴜᴄʀᴇ ʙᴏᴛ (ʀᴇᴩᴏ ɪꜱ ᴩʀɪᴠᴀᴛᴇ) 
-- ᴜᴩᴅᴀᴛᴇꜱ :<a href=https://t.me/dmx_bots>ᴅᴍx ʙᴏᴛꜱ</a>
+- ᴜᴩᴅᴀᴛᴇꜱ :<a href=https://t.me/printvh>ᴍᴏᴠɪᴇ ᴜᴩᴅᴀᴛᴇꜱ</a>
 
 <b>DEV:</b>
 - 𝙳𝚎𝚟 1 <a href=https://t.me/basildmx>ʙᴀꜱɪʟ ᴅᴍx</a>
@@ -277,7 +277,7 @@ By @{}
 𝘠𝘰𝘶 𝘊𝘢𝘯 𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥 𝘈𝘯𝘺 𝘝𝘪𝘥𝘦𝘰 𝘍𝘳𝘰𝘮 𝘠𝘰𝘶𝘵𝘶𝘣𝘦
 
 𝙃𝙤𝙬 𝙏𝙤 𝙐𝙨𝙚
-• 𝘛𝘺𝘱𝘦 /video or /mp4 𝘈𝘯𝘥 (https://t.me/dmx_bots)
+• 𝘛𝘺𝘱𝘦 /video or /mp4 𝘈𝘯𝘥 (https://t.me/printvh)
 • 𝘌𝘹𝘢𝘮𝘱𝘭𝘦:
 <code>/mp4 https://xxxxxxxxxx</code>
 <code>/video https://xxxxxxxxx</code>"""
