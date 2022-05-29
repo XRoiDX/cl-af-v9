@@ -4,7 +4,7 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 ʜᴇʟᴩ ᴄᴏᴍᴍᴀɴᴅꜱ """
     ABOUT_TXT = """✯ ᴍy ɴᴀᴍᴇ : {}
-⌨︎ ᴄʀᴇᴀᴛᴏʀ ➪ <a href=https://t.me/bibin_indian_rock>ʙɪʙɪɴ ᴄʟ</a>
+
 ❍ ᴜᴩᴅᴀᴛᴇꜱ ➪ <a href=https://t.me/printvh>ᴍᴏᴠɪᴇ ᴜᴩᴅᴀᴛᴇꜱ</a>
 ❍ ʟɪʙʀᴀʀy ➪ 𝑷𝒚𝒓𝒐𝒈𝒓𝒂𝒎
 ❍ ʟᴀɴɢ ➪ 𝑷𝒚𝒕𝒉𝒐𝒏 3
