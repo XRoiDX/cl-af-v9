@@ -1,11 +1,11 @@
 class script(object):
     START_TXT = """<b> 👋 ʜᴇʟᴏ {},
- ᴍy ɴᴀᴍᴇ ɪꜱ <a href=https://t.me/{}>{}</a>,\n ɪᴀᴍ ᴀ ᴩᴜʙʟɪᴄ ʙᴏᴛ ꜱᴏ yᴏᴜ ᴄᴀɴ ᴀᴅᴅ ᴍᴇ ᴛᴏ yᴏᴜʀ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴩ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀꜱ ᴀᴅᴍɪɴ ...</b>"""
+ ᴍy ɴᴀᴍᴇ ɪꜱ <a href=https://t.me/{}>{}</a>,\n ɪᴀᴍ ᴀ ᴩʀɪᴠᴀᴛᴇ ʙᴏᴛ ꜱᴏ yᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴍᴇ ᴍy ᴍᴜꜱɪᴄ ɢʀᴏᴜᴩ ...</b>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 ʜᴇʟᴩ ᴄᴏᴍᴍᴀɴᴅꜱ """
-    ABOUT_TXT = """✯ ᴍy ɴᴀᴍᴇ : ᴍᴏᴠɪᴇ ʙᴏᴛ ᴠ9
+    ABOUT_TXT = """✯ ᴍy ɴᴀᴍᴇ : ᴍᴜꜱɪᴄ ʙᴏᴛ ᴠ9
 
-❍ ᴜᴩᴅᴀᴛᴇꜱ ➪ <a href=https://t.me/printvh>ᴍᴏᴠɪᴇ ᴜᴩᴅᴀᴛᴇꜱ</a>
+❍ ᴜᴩᴅᴀᴛᴇꜱ ➪ <a href=https://t.me/printvh>ᴍᴜꜱɪᴄ ɢʀᴀᴍᴀᴍ</a>
 ❍ ʟɪʙʀᴀʀy ➪ 𝑷𝒚𝒓𝒐𝒈𝒓𝒂𝒎
 ❍ ʟᴀɴɢ ➪ 𝑷𝒚𝒕𝒉𝒐𝒏 3
 ❍ ᴠᴇʀꜱɪᴏɴ ➪ 9
@@ -15,12 +15,12 @@ class script(object):
 ❍ ʙᴜɪʟᴅ ꜱᴛᴀᴛꜱ  ➪ 𝚅9.7.73 [ᴍᴀᴊᴏʀ 9.7]
 ❍ ʟᴀꜱᴛ ᴜᴩᴅᴀᴛᴇ  ➪ 29 𝑴𝒂𝒚"""
     SOURCE_TXT = """<b>ɴᴏᴛᴇ</b>
-- ᴍᴏᴠɪᴇ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀ ᴏᴩᴇɴ ꜱᴏᴜᴄʀᴇ ʙᴏᴛ (ʀᴇᴩᴏ ɪꜱ ᴩʀɪᴠᴀᴛᴇ) 
+- ᴍᴜꜱɪᴄ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀ ᴏᴩᴇɴ ꜱᴏᴜᴄʀᴇ ʙᴏᴛ (ʀᴇᴩᴏ ɪꜱ ᴩʀɪᴠᴀᴛᴇ) 
 - ᴜᴩᴅᴀᴛᴇꜱ :<a href=https://t.me/printvh>ᴍᴏᴠɪᴇ ᴜᴩᴅᴀᴛᴇꜱ</a>
 
 <b>DEV:</b>
-- 𝙳𝚎𝚟 1 <a href=https://t.me/basildmx>ʙᴀꜱɪʟ ᴅᴍx</a>
-- 𝙳𝚎𝚟 2 <a href=https://t.me/bibin_indian_rock>ʙɪʙɪɴ ᴄʟ</a> """
+- 𝙳𝚎𝚟 1 <a href=https://t.me/basildmx>ʟᴜᴄɪꜰᴇʀ</a>
+- 𝙳𝚎𝚟 2 <a href=https://t.me/bibin_indian_rock>ᴀʟᴩʜᴀ ʀɪᴩꜱ</a> """
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
 <b>𝙱𝚈 𝚄𝚂𝙸𝙽𝙶 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚈𝙾𝚄 𝙲𝙰𝙽 𝚂𝚃𝙾𝚁𝙴 𝙵𝙸𝙻𝙴𝚂 𝙸𝙽 𝙼𝚈 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 𝙰𝙽𝙳 𝙸 𝚆𝙸𝙻𝙻 𝙶𝙸𝚅𝙴 𝚈𝙾𝚄 𝙰 𝙿𝙴𝚁𝙼𝙰𝙽𝙴𝙽𝚃 𝙻𝙸𝙽𝙺  𝚃𝙾 𝙰𝙲𝙲𝙴𝚂𝚂 𝚃𝙷𝙴 𝚂𝙰𝚅𝙴𝙳 𝙵𝙸𝙻𝙴𝚂.𝙸𝙵 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝙰𝙳𝙳 𝙵𝙸𝙻𝙴𝚂 𝙵𝚁𝙾𝙼 𝙰 𝙿𝚄𝙱𝙻𝙸𝙲 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝙵𝙸𝙻𝚆 𝙻𝙸𝙽𝙺 𝙾𝙽𝙻𝚈  𝙾𝚁 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝙰𝙳𝙳 𝙵𝙸𝙻𝙴𝚂 𝙵𝚁𝙾𝙼 𝙰  𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚈𝙾𝚄 𝙼𝚄𝚂𝚃 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽 𝙾𝙽 𝚃𝙷𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚃𝙾 𝙰𝙲𝙲𝙴𝚂𝚂 𝙵𝙸𝙻𝙴𝚂...//</b>
@@ -35,7 +35,7 @@ class script(object):
 
 <code>/batch https://t.me/printvh or /batch hlo</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/printvh><b>ᴍᴏᴠɪᴇꜱ ᴜᴩᴅᴀᴛᴇ</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/printvh><b>ᴍᴜꜱɪᴄ ᴜᴩᴅᴀᴛᴇ</b></a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 •/whois :-give a user full details"""
@@ -72,7 +72,7 @@ Note:- Give a user details
 
 𝚆𝙾𝚁𝙺𝚂 𝙾𝙽𝙻𝚈 𝙾𝙽 𝙶𝚁𝙾𝚄𝙿
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/bibin_indian_rock>ʙɪʙɪɴ ᴄʟ</a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/bibin_indian_rock>ʟᴜᴄɪꜰᴇʀ</a>"""
     PIN_TXT ="""<b>PIN MODULE</b>
 <b>𝙿𝙸𝙽 𝙰 𝙼𝙴𝚂𝚂𝙰𝙶𝙴../</b>
 
